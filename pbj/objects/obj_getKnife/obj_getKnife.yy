@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_getKnife",
     "eventList": [
-        
+        {
+            "id": "5630b865-e0e1-4b3f-b8b3-8181596fcb1c",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 4,
+            "eventtype": 6,
+            "m_owner": "d249a7f9-5eaa-42fb-94cf-daff8f4d1a30"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
