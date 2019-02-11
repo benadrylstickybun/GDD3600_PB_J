@@ -18,12 +18,14 @@ if(global.HAS_INGREDIENTS)
 /// @DnDHash : 1A50B168
 else
 {
-	/// @DnDAction : YoYo Games.Common.Execute_Code
+	/// @DnDAction : YoYo Games.Instances.Create_Instance
 	/// @DnDVersion : 1
-	/// @DnDHash : 2251475B
+	/// @DnDHash : 7198C795
 	/// @DnDParent : 1A50B168
-	/// @DnDArgument : "code" "draw_set_color(c_white);$(13_10)$(13_10)draw_text(room_width / 2, room_height / 2, "You haven't grabbed the right ingredients yet!");"
-	draw_set_color(c_white);
-	
-	draw_text(room_width / 2, room_height / 2, "You haven't grabbed the right ingredients yet!");
+	/// @DnDArgument : "xpos" "mouse_x"
+	/// @DnDArgument : "ypos" "mouse_y"
+	/// @DnDArgument : "objectid" "obj_slap"
+	/// @DnDArgument : "layer" ""Hand""
+	/// @DnDSaveInfo : "objectid" "01ee5721-496b-4cfe-88e0-78c985596d6b"
+	instance_create_layer(mouse_x, mouse_y, "Hand", obj_slap);
 }

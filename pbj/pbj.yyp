@@ -55,6 +55,22 @@
             }
         },
         {
+            "Key": "0aa3da08-d06a-4eb1-9222-e9c5eae30d0e",
+            "Value": {
+                "id": "4948842a-7ee0-49dc-927c-78bebcec8744",
+                "resourcePath": "objects\\spawner\\spawner.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "0b64741c-e5e4-4d1f-86dc-c5db1d35bf6a",
+            "Value": {
+                "id": "17b1009c-6512-41be-aa32-e87c5d6863f4",
+                "resourcePath": "objects\\obj_pointUp\\obj_pointUp.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0bd03531-5998-4b56-b679-0c9ed6c7fcb0",
             "Value": {
                 "id": "0959c828-4cbc-4833-868f-20d9872faf69",
@@ -135,6 +151,14 @@
             }
         },
         {
+            "Key": "201f63f0-5e71-4a27-b8bf-0905935334b7",
+            "Value": {
+                "id": "5ddd9768-7ca6-4986-bf18-ad9942aaa5e7",
+                "resourcePath": "sprites\\knife_jellyPNG\\knife_jellyPNG.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "284234d1-0164-4477-adac-3997aa6f8b7f",
             "Value": {
                 "id": "876f6256-255f-4bbd-afc3-94dac4c95639",
@@ -204,6 +228,14 @@
                 "id": "9bc1231f-38b7-4c5e-86f1-f23dbcde7b4e",
                 "resourcePath": "views\\44c57f28-4526-4a3d-ac18-2baecbe309f1.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4e28aa98-909c-420d-beed-f1d6da9469ab",
+            "Value": {
+                "id": "fbeff501-f690-4cc4-9388-2c0bcf85b9d7",
+                "resourcePath": "sprites\\knife_pbPNG\\knife_pbPNG.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -324,6 +356,22 @@
                 "id": "d6d7d0d3-18d5-4d6b-a4fc-799fceeae506",
                 "resourcePath": "objects\\obj_jelly\\obj_jelly.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "74b62c3d-89c1-4b52-9d43-b5990a0e6b51",
+            "Value": {
+                "id": "93cadf81-b85a-437b-98d3-aef9f9f13c97",
+                "resourcePath": "sprites\\pointingUpPNG\\pointingUpPNG.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "75da581b-98e8-4a59-b7ba-31858af6b8a6",
+            "Value": {
+                "id": "cc0fca75-e749-495b-825f-b8f78beca870",
+                "resourcePath": "sprites\\pointingDownPNG\\pointingDownPNG.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -603,6 +651,14 @@
             "Value": {
                 "id": "142a7f28-1ab5-4fe8-8370-c30b264a10e0",
                 "resourcePath": "objects\\obj_getKnife\\obj_getKnife.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d2aab457-9dbe-4ce0-adad-8c14c5b56618",
+            "Value": {
+                "id": "7b03c00e-0840-46d9-a4d2-520738f141c0",
+                "resourcePath": "objects\\obj_pointDown\\obj_pointDown.yy",
                 "resourceType": "GMObject"
             }
         },
