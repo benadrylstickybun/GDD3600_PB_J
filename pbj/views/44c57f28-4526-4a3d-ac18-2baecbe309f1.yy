@@ -12,7 +12,8 @@
         "59f54d94-ddff-4c58-9020-38d9b574cbbd",
         "a7b34bdf-2c34-40c3-97bc-41b80611805d",
         "73fefe8b-d298-4eb9-a357-e0b82cc6d2f6",
-        "11d37301-3bfe-4168-ab88-44bcc32a8afa"
+        "11d37301-3bfe-4168-ab88-44bcc32a8afa",
+        "e9cdb124-404c-4771-8bf3-7dbf17361163"
     ],
     "filterType": "GMSprite",
     "folderName": "Menu",
