@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_breadJelly",
     "eventList": [
-        
+        {
+            "id": "48d936ba-69b1-4cbc-90c5-b098035c502a",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "549a82d6-66b0-43ed-b540-7c96cfc0ae44"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

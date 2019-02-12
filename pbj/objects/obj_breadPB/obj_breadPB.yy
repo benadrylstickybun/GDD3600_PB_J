@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_breadPB",
     "eventList": [
-        
+        {
+            "id": "0c051b56-613e-4768-8445-32a7a3986a38",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "76a1c901-3436-4a4d-9e00-6756fde16a1d"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
