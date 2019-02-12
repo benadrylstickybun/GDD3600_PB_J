@@ -215,6 +215,14 @@
             }
         },
         {
+            "Key": "3d112280-6c9a-4549-842c-d1dd328e9a51",
+            "Value": {
+                "id": "6df09e0e-8471-4462-aeec-ab9d20f2edb4",
+                "resourcePath": "sprites\\breadSlicePB\\breadSlicePB.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3e32e405-998f-44ac-9913-17a717c2d4d7",
             "Value": {
                 "id": "005cfaea-581a-443c-995a-ad0218f1a195",
@@ -279,6 +287,14 @@
             }
         },
         {
+            "Key": "4f9cc884-99ba-4e91-8519-cabd29b013fa",
+            "Value": {
+                "id": "d6119c46-7c16-45ad-9009-6defe7b60701",
+                "resourcePath": "objects\\obj_butterKnifePB\\obj_butterKnifePB.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "517b93a8-0474-4e00-8323-66e31bb54e6f",
             "Value": {
                 "id": "1c2a0c3c-1172-443e-ae34-ec2bcc3384ba",
@@ -295,11 +311,27 @@
             }
         },
         {
+            "Key": "549a82d6-66b0-43ed-b540-7c96cfc0ae44",
+            "Value": {
+                "id": "eb9f7d6e-85b7-4816-ae56-6b756d4b4723",
+                "resourcePath": "objects\\obj_breadJelly\\obj_breadJelly.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5638db66-3c72-4957-91e0-a827328560da",
             "Value": {
                 "id": "b2e1129f-ca43-4bd8-8d00-454af6badbda",
                 "resourcePath": "sprites\\Title\\Title.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "56712bd9-b6e9-4af7-a784-7c492679f538",
+            "Value": {
+                "id": "174f455f-8da1-4977-bd58-256cca631502",
+                "resourcePath": "sounds\\sfx_get_jam\\sfx_get_jam.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -415,6 +447,14 @@
             }
         },
         {
+            "Key": "76a1c901-3436-4a4d-9e00-6756fde16a1d",
+            "Value": {
+                "id": "8d1f3816-cf7b-44df-b496-889499790bb0",
+                "resourcePath": "objects\\obj_breadPB\\obj_breadPB.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7a2e6247-fdde-4e71-bd0d-784cdac5d01e",
             "Value": {
                 "id": "25cc897a-182f-4f5b-a705-98f1f88a03b1",
@@ -431,6 +471,14 @@
             }
         },
         {
+            "Key": "82da62ba-c3f4-4c06-8ab8-d803b8cec414",
+            "Value": {
+                "id": "65034130-6630-4bea-9838-a5dc4555a0e2",
+                "resourcePath": "sprites\\breadSliceJam\\breadSliceJam.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "841a2360-99ff-44e8-a9a1-72aaeea5743e",
             "Value": {
                 "id": "b1bbfc70-e721-4719-885e-2a57fd67fc3c",
@@ -444,6 +492,14 @@
                 "id": "8c111bd0-6afc-4c3b-8535-bcf04ce0cdc7",
                 "resourcePath": "sprites\\breadSlicePNG\\breadSlicePNG.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8893c7d5-724a-433b-8204-577f39ad33bc",
+            "Value": {
+                "id": "c1e89821-b417-4c9a-891c-40a5d4cd71c5",
+                "resourcePath": "sounds\\sfx_get_PB\\sfx_get_PB.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -527,11 +583,27 @@
             }
         },
         {
+            "Key": "93cedebf-4409-458e-a546-c7d99ca25d79",
+            "Value": {
+                "id": "0c1f93c3-e438-4a1d-b300-9978f34decd4",
+                "resourcePath": "objects\\obj_butterKnifeJelly\\obj_butterKnifeJelly.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9af6d003-b24f-48b6-89e4-89fe0e903870",
             "Value": {
                 "id": "5a7b2256-5be4-4873-9efc-6336495862af",
                 "resourcePath": "objects\\obj_marinara\\obj_marinara.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "9cb8efb6-cc7a-40d7-adb2-d32c07d2cab5",
+            "Value": {
+                "id": "6cf3ed77-3719-4b45-bcd5-a94b7de94e8f",
+                "resourcePath": "sounds\\sfx_spread_jam\\sfx_spread_jam.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -620,6 +692,14 @@
                 "id": "7933a1f4-5562-49b4-ae35-267c803a79a8",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "ab31a1d2-f93a-4ca3-a721-7cbffcfbf4cf",
+            "Value": {
+                "id": "9bbb57b1-1c5a-4cc7-b3c0-d7bc51099143",
+                "resourcePath": "sounds\\sfx_spread_PB\\sfx_spread_PB.yy",
+                "resourceType": "GMSound"
             }
         },
         {

@@ -1,38 +1,38 @@
 {
-    "id": "30c4f5be-fe47-4b1a-9e3e-925b7016a4c4",
+    "id": "93cedebf-4409-458e-a546-c7d99ca25d79",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_butterKnifeHolding",
+    "name": "obj_butterKnifeJelly",
     "eventList": [
         {
-            "id": "dc964a0f-bf3e-41d1-978a-4695889a7362",
+            "id": "ff27f471-94b4-4872-9bf0-38e5552ce3b7",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "30c4f5be-fe47-4b1a-9e3e-925b7016a4c4"
+            "m_owner": "93cedebf-4409-458e-a546-c7d99ca25d79"
         },
         {
-            "id": "dd9440b1-581e-490b-8b07-eec80dfaaa7c",
+            "id": "3b180eda-af58-4173-94fe-750596bb038c",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
-            "collisionObjectId": "6ccd9e47-2ed2-4bf3-990d-c0e52f0cc1c1",
+            "collisionObjectId": "841a2360-99ff-44e8-a9a1-72aaeea5743e",
             "enumb": 0,
             "eventtype": 4,
-            "m_owner": "30c4f5be-fe47-4b1a-9e3e-925b7016a4c4"
+            "m_owner": "93cedebf-4409-458e-a546-c7d99ca25d79"
         },
         {
-            "id": "cd1d6280-0185-45ea-875b-d571754e190e",
+            "id": "2186ac08-8853-4b11-97e1-0a6ac87d7dad",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "a27de1d9-833a-4d13-a20b-643e4a512663",
             "enumb": 0,
             "eventtype": 4,
-            "m_owner": "30c4f5be-fe47-4b1a-9e3e-925b7016a4c4"
+            "m_owner": "93cedebf-4409-458e-a546-c7d99ca25d79"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -53,6 +53,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "e4236bcf-e422-45ad-b077-30accaf91c67",
+    "spriteId": "201f63f0-5e71-4a27-b8bf-0905935334b7",
     "visible": true
 }
